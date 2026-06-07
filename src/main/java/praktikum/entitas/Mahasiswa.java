@@ -1,9 +1,9 @@
 package praktikum.entitas;
 
 public class Mahasiswa {
-    String NIM;
-    String Nama;
-    String Prodi;
+    public String NIM;
+    public String Nama;
+    public String Prodi;
     
     public Mahasiswa(String nim, String nama, String prodi){
         this.NIM = nim;
