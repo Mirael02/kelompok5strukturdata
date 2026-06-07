@@ -1,0 +1,23 @@
+```
+# Compiled and build artifacts
+*.class
+target/
+
+# Dependencies
+.mypy_cache/
+.pytest_cache/
+__pycache__/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Editors
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+*.env.*
+```

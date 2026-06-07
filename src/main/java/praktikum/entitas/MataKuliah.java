@@ -1,9 +1,9 @@
 package praktikum.entitas;
 
 public class MataKuliah {
-    String kodeMK;
-    String namaMK;
-    int sks;
+    public String kodeMK;
+    public String namaMK;
+    public int sks;
     
     public MataKuliah(String kodemk, String namamk, int sks){
         this.kodeMK = kodemk;
